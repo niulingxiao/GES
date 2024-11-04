@@ -1,5 +1,5 @@
 # GES
-There are some large files that we store separately, here are the links
+There are some large files that we store separately, here are the links.
 
 https://pan.baidu.com/s/1Fr2XvjZc2brjEcBxddHYlg?pwd=ospa 
 code：ospa 
