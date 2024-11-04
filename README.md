@@ -1,8 +1,8 @@
 # GES
 There are some large files that we store separately, here are the links.
 
-https://pan.baidu.com/s/1Fr2XvjZc2brjEcBxddHYlg?pwd=ospa 
-code：ospa 
+https://pan.baidu.com/s/1Ji_qlxfsjncFCGftm_-5dQ?pwd=d3rs 
+code:d3rs 
 
 In the ckpt folder are the model weights.
 The GC and segment_anything in datasets correspond to our project files.
