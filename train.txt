@@ -1,0 +1,26 @@
+训练
+python train.py \
+--paths_file /paths_train.txt \
+--val_paths_file /paths_val.txt \
+--workers 8 \
+--dataset casiav2 \
+--use_balanced_weights True \
+--patience 0 \
+--decay_epoch 0 \
+--warmup_epoch 1 \
+--n_epochs 25 \
+--n_early 1000 \
+--fix_lamda 0.5 \
+--batch_size 24 \
+--lr 1e-4 \
+--lr_end 1e-7 \
+--manipulate_dataset \
+--fix_seed \
+--manipulate_thresh 90 \
+--poison_thresh 0.2 \
+--blend_thresh 20
+--model_select mvss
+
+
+
+
